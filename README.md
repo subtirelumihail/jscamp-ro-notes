@@ -42,4 +42,5 @@
 - Forever - A simple CLI tool for ensuring that a given node script runs continuously - https://www.npmjs.com/package/forever
 
 ### 8. JavaScript Patterns for Contemporary Dance Music - [JAN KRUTISCH](https://github.com/halfbyte)
-- 
+- liv3c0der - https://github.com/halfbyte/liv3c0der
+- http://webaudiohacks.com/x
