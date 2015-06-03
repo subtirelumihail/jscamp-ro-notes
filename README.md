@@ -43,4 +43,4 @@
 
 ### 8. JavaScript Patterns for Contemporary Dance Music - [JAN KRUTISCH](https://github.com/halfbyte)
 - liv3c0der - https://github.com/halfbyte/liv3c0der
-- http://webaudiohacks.com/x
+- http://webaudiohacks.com/
